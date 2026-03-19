@@ -190,6 +190,7 @@ The duplicate `1234567` in the example above will be scanned only once.
 
 ## ⚠️ Notes & Limitations
 
+- Note that most of the people with high amount of followers are botted, so not all of them are really famous
 - This tool uses [RoProxy](https://roproxy.com), a public Roblox API proxy. It is not affiliated with or endorsed by Roblox Corporation.
 - Be mindful of rate limits. The default `--rate-limit-wait 0.15` and `--workers 4` settings are conservative. Increasing workers aggressively may trigger rate limiting.
 - Roblox accounts that have been deleted or banned return a 404 and are skipped gracefully.
